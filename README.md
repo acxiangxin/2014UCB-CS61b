@@ -1,2 +1,2 @@
-# 2014UCB-CS61b
+# 2014CS61b
 cs61b hw, lab, proj
